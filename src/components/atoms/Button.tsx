@@ -16,7 +16,7 @@ export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
     const baseStyles = "inline-flex items-center justify-center font-bold transition-all duration-200 focus:outline-none disabled:opacity-50 disabled:pointer-events-none";
     
     const variants = {
-      primary: "bg-primary text-white rounded-lg hover:bg-neutral-800 active:scale-[0.98]",
+      primary: "bg-black text-white rounded-lg hover:bg-neutral-800 active:scale-[0.98]",
       secondary: "bg-white border border-primary text-primary rounded-lg hover:bg-primary hover:text-white",
       tertiary: "text-sm border-b-2 border-primary rounded-none px-0 hover:pb-1",
       "cta-dark-primary": "bg-white text-black rounded-lg uppercase tracking-widest hover:bg-neutral-200",

@@ -43,6 +43,7 @@ export type IconName =
   | "security" 
   | "support_agent" 
   | "event_available"
+  | "instagram"
   | "logo-mark" // Custom
   | "logo-text"; // Custom
 
@@ -92,6 +93,7 @@ const iconMap: Record<string, any> = {
   security: dynamic(() => import("lucide-react").then((mod) => mod.Shield)),
   support_agent: dynamic(() => import("lucide-react").then((mod) => mod.Headphones)),
   event_available: dynamic(() => import("lucide-react").then((mod) => mod.CalendarCheck)),
+  instagram: dynamic(() => import("lucide-react").then((mod) => mod.Instagram)),
 };
 
 export const Icon: React.FC<IconProps> = ({ name, className, size = 24, ...props }) => {

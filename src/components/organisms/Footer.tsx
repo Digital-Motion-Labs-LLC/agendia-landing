@@ -55,7 +55,9 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between gap-6 text-[10px] font-bold text-neutral-600 tracking-widest uppercase">
           <p>{t("rights").replace("2024", currentYear.toString())}</p>
           <div className="flex gap-8">
-            <a className="hover:text-neutral-400 transition-colors" href="#">INSTAGRAM</a>
+            <a className="hover:text-neutral-400 transition-colors" href="https://instagram.com/agendia.do" target="_blank" rel="noopener noreferrer">
+                <Icon name="instagram" size={18} />
+            </a>
           </div>
         </div>
       </div>

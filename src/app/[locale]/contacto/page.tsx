@@ -69,7 +69,7 @@ export default function ContactPage() {
                     </div>
 
                     <div className="pt-8">
-                        <Button type="submit" variant="primary" size="lg" disabled={state.submitting} icon={<Icon name="arrow_forward" size={18} />}>
+                        <Button type="submit" variant="primary" size="lg" disabled={state.submitting}>
                             {state.submitting ? "ENVIANDO..." : "ENVIAR MENSAJE"}
                         </Button>
                     </div>
@@ -101,7 +101,7 @@ export default function ContactPage() {
                     <Typography variant="body" className="text-sm text-neutral-500 mb-4">
                         Nuestro equipo suele responder en menos de 5 minutos.
                     </Typography>
-                    <Button variant="secondary" size="sm" fullWidth>
+                    <Button variant="secondary" size="sm" fullWidth onClick={() => window.open(`https://wa.me/18496294289`, "_blank")}>
                         Iniciar Chat
                     </Button>
                 </div>
