@@ -1,0 +1,275 @@
+{
+  "Navigation": {
+    "features": "Features",
+    "useCases": "Use Cases",
+    "pricing": "Pricing",
+    "login": "Login",
+    "startFree": "Start for Free"
+  },
+  "Hero": {
+    "title": "Your digital agenda.<br /> <span class=\"text-neutral-500\">Simple. Fast. Professional.</span>",
+    "subtitle": "Optimize your appointments and manage your business with the region's most advanced platform. Designed for pure speed.",
+    "ctaPrimary": "Create my account",
+    "ctaSecondary": "View live demo",
+    "phoneMockup": {
+      "online": "Online",
+      "notificationTitle": "Appointment Reminder",
+      "notificationBody": "Hello <b>Josue Grullon</b>, checking in to remind you that your appointment with <b>Frankely</b> is soon. Don't miss it! 💈",
+      "todayAt": "Today at",
+      "service": "Service",
+      "cut": "Full Cut",
+      "copyCode": "Copy Code",
+      "serviceCenter": "Service Center",
+      "confirmed": "To Confirm",
+      "blocked": "Lunch (Blocked)",
+      "professionalService": "Professional Service",
+      "medicalOffice": "Medical Office",
+      "todaysPanel": "Today's Panel",
+      "patient": "Patient",
+      "doctor": "Dr. Perez - Gen. Consultation",
+      "nextSlot": "Next Slot"
+    }
+  },
+  "Features": {
+    "syncTitle": "Real Synchronization",
+    "syncDesc": "Your appointments on all devices instantly. No delays, no scheduling conflicts.",
+    "paymentsTitle": "Online Payments",
+    "paymentsDesc": "Collect deposits and service fees directly. Local integration with DR payment gateways.",
+    "smsTitle": "SMS Reminders",
+    "smsDesc": "Reduce no-shows by up to 80% with automatic WhatsApp and SMS notifications.",
+    "clientsTitle": "Client Management",
+    "clientsDesc": "Centralized database with complete service history and preferences.",
+    "reportsTitle": "Advanced Reports",
+    "reportsDesc": "Key real-time metrics to understand your monthly revenue growth.",
+    "supportTitle": "24/7 Local Support",
+    "supportDesc": "We are in Santo Domingo. Dedicated technical assistance whenever you need it most."
+  },
+  "AgendiaLite": {
+    "badge": "Lite Edition",
+    "title": "Agendia Lite: Minimalist management for independents.",
+    "description": "We designed an ultra-light version for professionals who just need to schedule and collect payments. No complex configurations, straight to the point.",
+    "setup": "Setup in 30 seconds",
+    "setupDesc": "Create your account and start receiving appointments today.",
+    "link": "Personalized Link",
+    "linkDesc": "Share your availability via Instagram or WhatsApp.",
+    "cta": "Try Lite Version",
+    "sidebar": {
+      "payments": "Payments",
+      "appointments": "Appointments",
+      "settings": "Settings"
+    }
+  },
+  "UseCases": {
+    "title": "For every industry",
+    "salons": "Salons & Centers",
+    "salonsDesc": "Shift management and commissions per barber.",
+    "spas": "Aesthetics & Spas",
+    "spasDesc": "Cabin reservation and product control.",
+    "medical": "Medical Offices",
+    "medicalDesc": "Medical appointment reminders and medical records.",
+    "fitness": "Trainers",
+    "fitnessDesc": "Personalized sessions and class packs."
+  },
+  "Pricing": {
+    "title": "Plans that scale with you",
+    "subtitle": "No contracts, cancel anytime.",
+    "lite": {
+      "title": "Lite",
+      "price": "$0",
+      "period": "/mo",
+      "feature1": "Up to 50 appointments / month",
+      "feature2": "Basic booking link",
+      "feature3": "Mobile App",
+      "cta": "Start Now"
+    },
+    "pro": {
+      "badge": "Most Popular",
+      "title": "Pro Business",
+      "price": "$29",
+      "period": "/mo",
+      "feature1": "Unlimited appointments",
+      "feature2": "Unlimited SMS (DR)",
+      "feature3": "Multi-collaborator",
+      "feature4": "Payment integration",
+      "cta": "Select Pro"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "$99",
+      "period": "/mo",
+      "feature1": "Multiple branches",
+      "feature2": "Custom API",
+      "feature3": "Account Manager",
+      "cta": "Contact Sales"
+    }
+  },
+  "Footer": {
+    "description": "Leading the digital transformation of services in the Dominican Republic since 2023.",
+    "madeWith": "MADE WITH",
+    "inRD": "IN DOMINICAN REPUBLIC",
+    "product": "Product",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "integrations": "Integrations",
+    "rights": "© 2024 AGENDIA TECH SRL. ALL RIGHTS RESERVED."
+  },
+  "HomePage": {
+    "title": "Agendia.do",
+    "about": "Go to About page",
+    "privacy": "Go to Privacy page",
+    "contact": "Go to Contact page"
+  },
+  "Metadata": {
+    "title": "Agendia.do | Time Architecture",
+    "description": "Redefining personal management with a minimalist vision. Your digital agenda, simple and fast."
+  },
+  "AboutUs": {
+    "title": "About Us | Agendia.do",
+    "navigation": {
+      "mission": "Mission",
+      "history": "History",
+      "team": "Team",
+      "contact": "Contact",
+      "start": "Start"
+    },
+    "hero": {
+      "visionBadge": "Our Vision",
+      "title": "Time <span class=\"text-neutral-500 italic\">Architecture.</span>",
+      "subtitle": "We redefine personal management with a minimalist vision, eliminating noise to empower what is essential."
+    },
+    "values": {
+      "structure": "Structure",
+      "structureDesc": "We design workflows based on architectural precision, where each block has a defined purpose.",
+      "speed": "Speed",
+      "speedDesc": "Efficiency is not about going faster, it's about eliminating obstacles that stop you. Pure functional minimalism.",
+      "essence": "Essence",
+      "essenceDesc": "Less is more. We filter complexity so you only interact with what truly matters in your day."
+    },
+    "story": {
+      "title": "Our <br/><span class=\"text-neutral-400\">Story</span>",
+      "p1": "Agendia was born in the heart of Santo Domingo, Dominican Republic, as a response to digital saturation. We observed how productivity tools were becoming more complex instead of more useful.",
+      "p2": "In 2022, a small group of Dominican designers and developers decided to create a global standard of simplicity from the Caribbean, proving that world-class design has no borders.",
+      "p3": "Today, Agendia is the tool chosen by creatives and architects around the world who value mental space as much as their physical time.",
+      "location": "Location: Santo Domingo, DR"
+    },
+    "team": {
+      "title": "The Team",
+      "subtitle": "Minds focused on the intersection between code and functional aesthetics.",
+      "carlos": {
+        "role": "Founder / Design"
+      },
+      "maria": {
+        "role": "Core Engineering"
+      },
+      "rafael": {
+        "role": "Product"
+      },
+      "laura": {
+        "role": "Operations"
+      }
+    },
+    "cta": {
+      "title": "Join the evolution of <br/>conscious productivity.",
+      "start": "Start Now",
+      "demo": "View Demo"
+    },
+    "footer": {
+      "rights": "© 2024 Agendia Inc. Santo Domingo, Dominican Republic."
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 24, 2024",
+    "description": "At Agendia.do, we value your privacy and are transparent about how we handle your data to offer you the best scheduling experience, in strict compliance with Dominican Republic regulations.",
+    "sidebar": {
+      "intro": "Introduction",
+      "collection": "Information Collected",
+      "usage": "Use of Information",
+      "sharing": "Data Sharing",
+      "rights": "Your Rights",
+      "cookies": "Cookies",
+      "questionsTitle": "Have questions?",
+      "questionsBody": "Our legal team is here to help you with your doubts about privacy and compliance with Law 172-13.",
+      "contact": "Contact us"
+    },
+    "intro": {
+      "title": "Introduction",
+      "p1": "This Privacy Policy describes how <strong>Agendia.do</strong> collects, uses, and protects the personal information you provide through our appointment management and scheduling platform.",
+      "p2": "By using our services, you accept the practices described in this document. We are committed to ensuring that your privacy is protected according to the highest technological security standards and in compliance with <strong>Law No. 172-13 on Protection of Personal Data</strong> of the Dominican Republic."
+    },
+    "collection": {
+      "title": "Information We Collect",
+      "p1": "We collect information to provide better services to all our users. The information we collect includes:",
+      "list": {
+        "account": "<strong>Account Information:</strong> Name, email address, phone number (compliant with local regulations), and access credentials.",
+        "schedule": "<strong>Scheduling Data:</strong> Appointment details, linked calendars, offered services, and time availability.",
+        "technical": "<strong>Technical Information:</strong> IP address, browser type, operating system, and platform usage data via cookies.",
+        "payment": "<strong>Payment Information:</strong> We process payments through secure external providers (like Azul, Cardnet, or Stripe); we do not store your full card details on our servers, complying with PCI-DSS standards."
+      }
+    },
+    "usage": {
+      "title": "Use of Information",
+      "p1": "We use the collected information for the following purposes:",
+      "cards": {
+        "management": {
+          "title": "Appointment Management",
+          "desc": "To facilitate scheduling, cancellation, and service reminders."
+        },
+        "support": {
+          "title": "Technical Support",
+          "desc": "To answer your queries and resolve technical issues."
+        },
+        "improvement": {
+          "title": "Service Improvement",
+          "desc": "We analyze usage patterns to optimize the interface and functionalities."
+        },
+        "security": {
+          "title": "Security",
+          "desc": "To protect against fraud and unauthorized access to accounts."
+        }
+      }
+    },
+    "sharing": {
+      "title": "Data Sharing",
+      "p1": "Agendia.do does not sell or rent your personal information to third parties. We share data only in the following situations:",
+      "p2": "With <strong>Service Providers</strong> who help us with data hosting, payment processing, and analysis. These providers are contractually obligated to maintain confidentiality.",
+      "p3": "For <strong>Legal Compliance</strong>, when required by law or in response to valid legal requests from public authorities, including the Dominican Institute of Telecommunications (INDOTEL) or competent courts."
+    },
+    "rights": {
+      "title": "Your Rights (Law 172-13)",
+      "p1": "You have full control over your personal information. Under Dominican law, your rights include:",
+      "access": {
+        "title": "Access and Rectification (Habeas Data)",
+        "desc": "You can review and update your information at any time from your settings panel or by requesting it directly."
+      },
+      "forget": {
+        "title": "Right to be Forgotten / Cancellation",
+        "desc": "You can request the total deletion of your account and all associated data permanently when they are no longer necessary for the collected purposes."
+      },
+      "portability": {
+        "title": "Portability and Opposition",
+        "desc": "Request a copy of your data or ask us to stop processing your information for specific purposes."
+      }
+    },
+    "footer": {
+      "print": "Print",
+      "download": "Download PDF",
+      "share": "Share",
+      "useful": "Was this information useful?"
+    }
+  },
+  "WaitingList": {
+    "title": "Join the Waiting List",
+    "subtitle": "We are accepting new users gradually. Leave us your details and we will contact you soon.",
+    "emailLabel": "Your email",
+    "emailPlaceholder": "example@email.com",
+    "messageLabel": "Your message (optional)",
+    "messagePlaceholder": "Tell us about your business...",
+    "submit": "Send",
+    "successTitle": "Received!",
+    "successMessage": "Thanks for joining. We'll let you know when your access is ready.",
+    "close": "Close"
+  }
+}

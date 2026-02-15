@@ -1,0 +1,275 @@
+{
+  "Navigation": {
+    "features": "Características",
+    "useCases": "Casos de Uso",
+    "pricing": "Precios",
+    "login": "Login",
+    "startFree": "Empezar gratis"
+  },
+  "Hero": {
+    "title": "Tu agenda digital.<br /> <span class=\"text-neutral-500\">Simple. Rápida. Profesional.</span>",
+    "subtitle": "Optimiza tus citas y gestiona tu negocio con la plataforma más avanzada de la región. Diseñada para la velocidad pura.",
+    "ctaPrimary": "Crear mi cuenta",
+    "ctaSecondary": "Ver demo en vivo",
+    "phoneMockup": {
+      "online": "En línea",
+      "notificationTitle": "Recordatorio de tu cita",
+      "notificationBody": "Hola <b>Josue Grullon</b>, te recordamos que tu cita con <b>Frankely</b> está cerca. ¡No faltes! 💈",
+      "todayAt": "Hoy a las",
+      "service": "Servicio",
+      "cut": "Corte completo",
+      "copyCode": "Copiar código",
+      "serviceCenter": "Centro de Servicios",
+      "confirmed": "Por confirmar",
+      "blocked": "Almuerzo (Bloqueado)",
+      "professionalService": "Servicio Profesional",
+      "medicalOffice": "Consultorio Médico",
+      "todaysPanel": "Panel de Hoy",
+      "patient": "Paciente",
+      "doctor": "Dr. Perez - Consulta Gral.",
+      "nextSlot": "Siguiente espacio"
+    }
+  },
+  "Features": {
+    "syncTitle": "Sincronización Real",
+    "syncDesc": "Tus citas en todos tus dispositivos al instante. Sin retrasos, sin conflictos de horario.",
+    "paymentsTitle": "Pagos Online",
+    "paymentsDesc": "Cobra depósitos y servicios directamente. Integración local con pasarelas de pago RD.",
+    "smsTitle": "Recordatorios SMS",
+    "smsDesc": "Reduce el \"no-show\" hasta en un 80% con avisos automáticos vía WhatsApp y SMS.",
+    "clientsTitle": "Gestión de Clientes",
+    "clientsDesc": "Base de datos centralizada con historial completo de servicios y preferencias.",
+    "reportsTitle": "Reportes Avanzados",
+    "reportsDesc": "Métricas clave en tiempo real para entender el crecimiento de tu facturación mensual.",
+    "supportTitle": "Soporte Local 24/7",
+    "supportDesc": "Estamos en Santo Domingo. Asistencia técnica dedicada cuando más la necesites."
+  },
+  "AgendiaLite": {
+    "badge": "Lite Edition",
+    "title": "Agendia Lite: Gestión minimalista para independientes.",
+    "description": "Diseñamos una versión ultra-ligera para profesionales que solo necesitan agendar y cobrar. Sin configuraciones complejas, directo al grano.",
+    "setup": "Setup en 30 segundos",
+    "setupDesc": "Crea tu cuenta y empieza a recibir citas hoy mismo.",
+    "link": "Link Personalizado",
+    "linkDesc": "Comparte tu disponibilidad vía Instagram o WhatsApp.",
+    "cta": "Probar versión Lite",
+    "sidebar": {
+      "payments": "Pagos",
+      "appointments": "Citas",
+      "settings": "Ajustes"
+    }
+  },
+  "UseCases": {
+    "title": "Para cada industria",
+    "salons": "Salones & Centros",
+    "salonsDesc": "Gestión de turnos y comisiones por barbero.",
+    "spas": "Estética & Spas",
+    "spasDesc": "Reserva de cabinas y control de productos.",
+    "medical": "Consultorios",
+    "medicalDesc": "Recordatorios de citas médicas y expedientes.",
+    "fitness": "Entrenadores",
+    "fitnessDesc": "Sesiones personalizadas y packs de clases."
+  },
+  "Pricing": {
+    "title": "Planes que escalan contigo",
+    "subtitle": "Sin contratos, cancela cuando quieras.",
+    "lite": {
+      "title": "Lite",
+      "price": "$0",
+      "period": "/mes",
+      "feature1": "Hasta 50 citas / mes",
+      "feature2": "Link de reserva básico",
+      "feature3": "App móvil",
+      "cta": "Empezar ya"
+    },
+    "pro": {
+      "badge": "Más popular",
+      "title": "Pro Business",
+      "price": "$29",
+      "period": "/mes",
+      "feature1": "Citas ilimitadas",
+      "feature2": "SMS ilimitados (RD)",
+      "feature3": "Multi-colaborador",
+      "feature4": "Integración de pagos",
+      "cta": "Seleccionar Pro"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "$99",
+      "period": "/mes",
+      "feature1": "Múltiples sucursales",
+      "feature2": "API personalizada",
+      "feature3": "Manager de cuenta",
+      "cta": "Contactar ventas"
+    }
+  },
+  "Footer": {
+    "description": "Liderando la transformación digital de los servicios en República Dominicana desde 2023.",
+    "madeWith": "HECHO CON",
+    "inRD": "EN REPÚBLICA DOMINICANA",
+    "product": "Producto",
+    "company": "Compañía",
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "integrations": "Integraciones",
+    "rights": "© 2024 AGENDIA TECH SRL. TODOS LOS DERECHOS RESERVADOS."
+  },
+  "HomePage": {
+    "title": "Agendia.do",
+    "about": "Ir a la página de Acerca de",
+    "privacy": "Ir a la página de Privacidad",
+    "contact": "Ir a la página de Contacto"
+  },
+  "Metadata": {
+    "title": "Agendia.do | Arquitectura del Tiempo",
+    "description": "Redefinimos la gestión personal con una visión minimalista. Tu agenda digital, simple y rápida."
+  },
+  "AboutUs": {
+    "title": "Sobre Nosotros | Agendia.do",
+    "navigation": {
+      "mission": "Misión",
+      "history": "Historia",
+      "team": "Equipo",
+      "contact": "Contacto",
+      "start": "Empezar"
+    },
+    "hero": {
+      "visionBadge": "Nuestra Visión",
+      "title": "Arquitectura del <span class=\"text-neutral-500 italic\">Tiempo.</span>",
+      "subtitle": "Redefinimos la gestión personal con una visión minimalista, eliminando el ruido para potenciar lo esencial."
+    },
+    "values": {
+      "structure": "Estructura",
+      "structureDesc": "Diseñamos flujos de trabajo basados en la precisión arquitectónica, donde cada bloque tiene un propósito definido.",
+      "speed": "Velocidad",
+      "speedDesc": "La eficiencia no es ir más rápido, es eliminar los obstáculos que te detienen. Minimalismo funcional puro.",
+      "essence": "Esencia",
+      "essenceDesc": "Menos es más. Filtramos la complejidad para que solo interactúes con lo que realmente importa en tu día."
+    },
+    "story": {
+      "title": "Nuestra <br/><span class=\"text-neutral-400\">Historia</span>",
+      "p1": "Agendia nació en el corazón de Santo Domingo, República Dominicana, como una respuesta a la saturación digital. Observamos cómo las herramientas de productividad se volvían más complejas en lugar de más útiles.",
+      "p2": "En 2022, un pequeño grupo de diseñadores y desarrolladores dominicanos decidió crear un estándar global de simplicidad desde el Caribe, demostrando que el diseño de clase mundial no tiene fronteras.",
+      "p3": "Hoy, Agendia es la herramienta elegida por creativos y arquitectos de todo el mundo que valoran el espacio mental tanto como su tiempo físico.",
+      "location": "Ubicación: Santo Domingo, RD"
+    },
+    "team": {
+      "title": "El Equipo",
+      "subtitle": "Mentes enfocadas en la intersección entre el código y la estética funcional.",
+      "carlos": {
+        "role": "Fundador / Diseño"
+      },
+      "maria": {
+        "role": "Ingeniería Core"
+      },
+      "rafael": {
+        "role": "Producto"
+      },
+      "laura": {
+        "role": "Operaciones"
+      }
+    },
+    "cta": {
+      "title": "Únete a la evolución de la <br/>productividad consciente.",
+      "start": "Empezar Ahora",
+      "demo": "Ver Demo"
+    },
+    "footer": {
+      "rights": "© 2024 Agendia Inc. Santo Domingo, República Dominicana."
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: 24 Mayo 2024",
+    "description": "En Agendia.do, valoramos su privacidad y somos transparentes sobre cómo manejamos sus datos para ofrecerle la mejor experiencia de agendamiento, en estricto cumplimiento con la normativa de la República Dominicana.",
+    "sidebar": {
+      "intro": "Introducción",
+      "collection": "Información Recopilada",
+      "usage": "Uso de la Información",
+      "sharing": "Compartir Datos",
+      "rights": "Tus Derechos",
+      "cookies": "Cookies",
+      "questionsTitle": "¿Tienes preguntas?",
+      "questionsBody": "Nuestro equipo legal está aquí para ayudarte con tus dudas sobre privacidad y cumplimiento de la Ley 172-13.",
+      "contact": "Contáctanos"
+    },
+    "intro": {
+      "title": "Introducción",
+      "p1": "Esta Política de Privacidad describe cómo <strong>Agendia.do</strong> recopila, utiliza y protege la información personal que usted proporciona a través de nuestra plataforma de servicios de gestión de citas y programación.",
+      "p2": "Al utilizar nuestros servicios, usted acepta las prácticas descritas en este documento. Nos comprometemos a garantizar que su privacidad esté protegida de acuerdo con los más altos estándares de seguridad tecnológica y en conformidad con la <strong>Ley No. 172-13 sobre Protección de Datos de Carácter Personal</strong> de la República Dominicana."
+    },
+    "collection": {
+      "title": "Información que Recopilamos",
+      "p1": "Recopilamos información para proporcionar mejores servicios a todos nuestros usuarios. La información que recopilamos incluye:",
+      "list": {
+        "account": "<strong>Información de Cuenta:</strong> Nombre, dirección de correo electrónico, número de teléfono (conforme a regulaciones locales) y credenciales de acceso.",
+        "schedule": "<strong>Datos de Programación:</strong> Detalles de las citas, calendarios vinculados, servicios ofrecidos y disponibilidad horaria.",
+        "technical": "<strong>Información Técnica:</strong> Dirección IP, tipo de navegador, sistema operativo y datos de uso de la plataforma mediante cookies.",
+        "payment": "<strong>Información de Pago:</strong> Procesamos pagos a través de proveedores externos seguros (como Azul, Cardnet o Stripe); no almacenamos los datos completos de sus tarjetas en nuestros servidores, cumpliendo con los estándares PCI-DSS."
+      }
+    },
+    "usage": {
+      "title": "Uso de la Información",
+      "p1": "Utilizamos la información recopilada para los siguientes fines:",
+      "cards": {
+        "management": {
+          "title": "Gestión de Citas",
+          "desc": "Para facilitar la programación, cancelación y recordatorios de servicios."
+        },
+        "support": {
+          "title": "Soporte Técnico",
+          "desc": "Para responder a sus consultas y resolver problemas técnicos."
+        },
+        "improvement": {
+          "title": "Mejora del Servicio",
+          "desc": "Analizamos patrones de uso para optimizar la interfaz y funcionalidades."
+        },
+        "security": {
+          "title": "Seguridad",
+          "desc": "Para proteger contra el fraude y el acceso no autorizado a las cuentas."
+        }
+      }
+    },
+    "sharing": {
+      "title": "Compartir Datos",
+      "p1": "Agendia.do no vende ni alquila su información personal a terceros. Compartimos datos únicamente en las siguientes situaciones:",
+      "p2": "Con <strong>Proveedores de Servicios</strong> que nos ayudan con el alojamiento de datos, procesamiento de pagos y análisis. Estos proveedores están obligados por contrato a mantener la confidencialidad.",
+      "p3": "Para <strong>Cumplimiento Legal</strong>, cuando sea requerido por ley o en respuesta a solicitudes legales válidas de autoridades públicas, incluyendo el Instituto Dominicano de las Telecomunicaciones (INDOTEL) o tribunales competentes."
+    },
+    "rights": {
+      "title": "Tus Derechos (Ley 172-13)",
+      "p1": "Usted tiene el control total sobre su información personal. Conforme a la ley dominicana, sus derechos incluyen:",
+      "access": {
+        "title": "Acceso y Rectificación (Habeas Data)",
+        "desc": "Puede revisar y actualizar su información en cualquier momento desde su panel de configuración o solicitándolo directamente."
+      },
+      "forget": {
+        "title": "Derecho al Olvido / Cancelación",
+        "desc": "Puede solicitar la eliminación total de su cuenta y todos los datos asociados de forma permanente cuando ya no sean necesarios para los fines recogidos."
+      },
+      "portability": {
+        "title": "Portabilidad y Oposición",
+        "desc": "Solicite una copia de sus datos o pida que dejemos de procesar su información para fines específicos."
+      }
+    },
+    "footer": {
+      "print": "Imprimir",
+      "download": "Descargar PDF",
+      "share": "Compartir",
+      "useful": "¿Fue útil esta información?"
+    }
+  },
+  "WaitingList": {
+    "title": "Únete a la lista de espera",
+    "subtitle": "Estamos aceptando nuevos usuarios gradualmente. Déjanos tus datos y te contactaremos pronto.",
+    "emailLabel": "Tu correo electrónico",
+    "emailPlaceholder": "ejemplo@correo.com",
+    "messageLabel": "Tu mensaje (opcional)",
+    "messagePlaceholder": "Cuéntanos sobre tu negocio...",
+    "submit": "Enviar",
+    "successTitle": "¡Recibido!",
+    "successMessage": "Gracias por unirte. Te avisaremos cuando tu acceso esté listo.",
+    "close": "Cerrar"
+  }
+}

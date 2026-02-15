@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 40" width="300" height="40">
+  <rect width="40" height="40" rx="9" fill="#FFF"/>
+  <g transform="translate(20, 20)">
+      <rect x="-4"   y="-13.5" width="8"   height="4.2" rx="0.8" fill="#000" opacity="0.30"/>
+      <rect x="-8"  y="-7.8"  width="16"  height="4.2" rx="0.8" fill="#000" opacity="0.55"/>
+      <rect x="-11.5"  y="-2.1"  width="23"  height="5"   rx="1"   fill="#000"/>
+      <rect x="-14"  y="4.4"   width="28"  height="4.2" rx="0.8" fill="#000" opacity="0.25"/></g>
+  <text x="52" y="29" font-family="'Plus Jakarta Sans','Inter','Arial Black','Helvetica Neue',sans-serif" font-weight="800" font-size="26" letter-spacing="-1.1" fill="#FFF">Agendia.do</text>
+</svg>
