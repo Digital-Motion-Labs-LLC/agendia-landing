@@ -4,12 +4,13 @@ import { Link } from "@/i18n/routing";
 import { Icon } from "@/components/atoms/Icon";
 import { Typography } from "@/components/atoms/Typography";
 
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 
 // ... inside component ...
 
 export const Footer = () => {
   const t = useTranslations("Footer");
+  const locale = useLocale();
   const currentYear = new Date().getFullYear();
 
   return (
@@ -34,6 +35,15 @@ export const Footer = () => {
               <span className="text-red-500">♥</span>
               <span>{t("inRD")}</span>
             </div>
+            <p className="mt-3 text-xs text-neutral-400">
+              {t("builtBy")}{" "}
+              <a
+                className="underline hover:text-white transition-colors"
+                href={locale === "es" ? "https://digitalmotionlabs.com/es/" : "https://digitalmotionlabs.com/"}
+              >
+                Digital Motion Labs
+              </a>
+            </p>
           </div>
           <div>
             <h5 className="font-bold mb-6">{t("product")}</h5>
